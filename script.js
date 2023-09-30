@@ -6,7 +6,7 @@ let secBox = document.getElementById("sec-box");
 // Format: Date (Year, Month, Day, Hour, Minute)
 // Year is counter from 0 to 11.
 
-let endDate = new Date(2023,12,31,23,59);
+let endDate = new Date(2023,11,31,23,59); //Index for december is 11 not 12
 
 // Output value in milliseconds.
 
